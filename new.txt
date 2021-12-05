@@ -1,0 +1,6 @@
+{
+	"name": "Olga Kirzhaeva",
+	"age": 34,
+	"pets": ["4 cats", "1 dog"],
+	"future salary": "1000 $"
+}
