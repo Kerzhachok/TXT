@@ -1,0 +1,15 @@
+Skills to be studied
+
+QA Theory:
+	SDLC
+	STLC
+	Test-case
+	Bug-report
+Practise:
+	Programs:
+		Postman
+		XCode
+		Android Studio
+	Formats:
+		JSON
+		XML
