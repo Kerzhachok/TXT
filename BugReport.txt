@@ -1,0 +1,10 @@
+BUG-REPORT
+
+ID:i
+Title:
+Environment:
+Steps to reproduce:
+Priority:
+Severity:
+Expected Result:
+Actual Result:
